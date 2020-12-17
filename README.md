@@ -3,8 +3,6 @@
 This is the analysis/simulation code used in the paper:
 
 Single-molecule Force Spectroscopy Reveals the Dynamic Strength of the Hair-Cell Tip-Link Connection 
-Eric M. Mulhall1,2, Andrew Ward1,3, Darren Yang3, Mounir A. Koussa1,2, David P. Corey1*, and Wesley P. Wong3,4,5*
-
 
 All the scripts have been exectued in Matlab 2017 and 2018. Fitting functions require the curve fitting toolbox and the optimization toolbox. To create probabiity density function for rupture forces using the ksdensity function requires the statistics and machine learning toolbox.
 
