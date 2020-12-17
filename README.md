@@ -7,9 +7,13 @@ Single-molecule Force Spectroscopy Reveals the Dynamic Strength of the Hair-Cell
 Eric M. Mulhall1,2, Andrew Ward1,3, Darren Yang3, Mounir A. Koussa1,2, David P. Corey1*, and Wesley P. Wong3,4,5*
  
  1 Department of Neurobiology, Harvard Medical School, Boston, MA 02115
+ 
  2 Program in Neuroscience, Harvard University, Cambridge, MA 02138
+ 
  3 Program in Cellular and Molecular Medicine, Boston Children’s Hospital, Boston, MA 02115
+ 
  4 Department of Biological Chemistry and Molecular Pharmacology, Harvard Medical School, Boston, MA 02115
+ 
  5 Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, MA 02115
 
 All the scripts have been exectued in Matlab 2017 and 2018. Fitting functions require the curve fitting toolbox and the optimization toolbox. To create probabiity density function for rupture forces using the ksdensity function requires the statistics and machine learning toolbox.
